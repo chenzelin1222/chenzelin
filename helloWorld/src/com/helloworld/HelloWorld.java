@@ -1,8 +1,8 @@
-package com.helloworld;
+﻿package com.helloworld;
 
 public class HelloWorld {
 	/******
-	 * 你好
+	 * 你好OK
 	 * 
 	 * @param args
 	 */
